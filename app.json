@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Codelish Institute",
+    "slug": "codelish-institute",
+    "version": "1.0.0.7",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "codelish",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2e8b57"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.codelish.institute"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#2e8b57"
+      },
+      "package": "com.codelish.institute"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "tsconfigPaths": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "f17fd186-decb-4d19-800b-4e3060d4c0b6"
+      }
+    }
+  }
+}
