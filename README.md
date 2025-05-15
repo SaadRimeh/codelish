@@ -33,18 +33,18 @@ Codelish App is a cross‑platform mobile application built with React Native an
     cd codelish
   
 2. **Install dependencies**
-    bash
+  
     npm install
-    # or
+     or
     yarn install
    
 3. **Start the development server**
-   bash
+  
     npm start
-    # or
+     or
     yarn start
    
-4. **Test on device**
+5. **Test on device**
    - Scan the generated QR code with Expo Go (iOS & Android).
 
 ## Usage
