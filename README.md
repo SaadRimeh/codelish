@@ -1,4 +1,4 @@
-````markdown
+
 # Codelish App
 Mobile Application for Institute Management
 
@@ -28,22 +28,22 @@ Codelish App is a cross‑platform mobile application built with React Native an
 
 ## Installation
 1. **Clone the repository**
-    ```bash
+   bash
     git clone https://github.com/SaadRimeh/codelish.git
     cd codelish
-    ```
+  
 2. **Install dependencies**
-    ```bash
+    bash
     npm install
     # or
     yarn install
-    ```
+   
 3. **Start the development server**
-    ```bash
+   bash
     npm start
     # or
     yarn start
-    ```
+   
 4. **Test on device**
    - Scan the generated QR code with Expo Go (iOS & Android).
 
@@ -75,4 +75,4 @@ Email: saad.rimeh.01@gmail.com
 - [React Navigation](https://reactnavigation.org/)  
 - [Lucide Icons](https://lucide.dev/)  
 - [Pexels](https://www.pexels.com/) for stock imagery
-````
+
